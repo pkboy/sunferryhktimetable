@@ -1,0 +1,77 @@
+{
+  "timetable_remarks" : [
+    {
+      "route_codes" : [ "CECC", "CCCE" ],
+      "remarks": [
+        { 
+          "code" : "1", 
+          "remark" : "1 denotes Ordinary ferry service and freight service is allowed "
+        },
+        { 
+          "code" : "2", 
+          "remark" : "2 denotes trip operated on Mondays to Fridays only (except public holidays)"
+        },
+        { 
+          "code" : "3", 
+          "remark" : "3 denotes Ordinary ferry service and freight service is allowed and trip operated on Saturdays only (except public holidays) "
+        },
+        { 
+          "code" : "4", 
+          "remark" : "4 denotes Ordinary ferry service and freight service is allowed and trip operated on Mondays to Fridays only (except public holidays)"
+        }
+      ]
+    },
+    {
+      "route_codes" : [ "CEMW", "MWCE" ],
+      "remarks": [
+        { 
+          "code" : "1", 
+          "remark" : "1 denotes Ordinary ferry service and freight service is allowed "
+        },
+        { 
+          "code" : "2", 
+          "remark" : "2 denotes Ordinary ferry service and freight service is allowed and via Peng Chau for alighting passengers only "
+        },
+        { 
+          "code" : "3", 
+          "remark" : "3 denotes trip operated on Saturdays only and freight service is allowed (except public holidays)"
+        }
+      ]
+    },
+    {
+      "route_codes" : [ "NPHH", "HHNP" ],
+      "remarks": [
+        { 
+          "code" : "1", 
+          "remark" : "1 denotes The sailings are operated on Mondays to Fridays (except public holidays) only."
+        }
+      ]
+    },
+    {
+      "route_codes" : [ "NPKC", "KCNP" ],
+      "remarks": [
+        { 
+          "code" : "1", 
+          "remark" : "1 denotes The sailings are operated on Mondays to Fridays (except public holidays) only."
+        }
+      ]
+    },
+    {
+      "route_codes" : [ "IIPECMUW", "IIMUWPEC", "IIMUWCMW", "IICMWMUW", "IICMWCHC", "IICHCCMW", "IICHCMUW", "IIMUWCHC" ],
+      "remarks": [
+        { 
+          "code" : "1", 
+          "remark" : "1 denotes service terminated at Peng Chau"
+        },
+        { 
+          "code" : "2", 
+          "remark" : "2 denotes service terminated at Mui Wo"
+        },
+        { 
+          "code" : "3", 
+          "remark" : "3 denotes service terminated at Cheung Chau"
+        }
+      ]
+    }
+  ]
+}

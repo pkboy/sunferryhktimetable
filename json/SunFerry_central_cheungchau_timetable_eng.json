@@ -1,0 +1,740 @@
+{
+    "routes": [
+        {
+            "routeCode": "CECC",
+            "origin": "Central",
+            "destination": "Cheung Chau",
+            "departures": [
+                {
+                    "dayStart": 1,
+                    "dayEnd": 6,
+                    "runOnPublicHoliday": 0,
+                    "serviceDaysString": "Mondays to Saturdays except public holidays",
+                    "serviceTimes": [
+                        {
+                            "time": "00:30",
+                            "remark": ""
+                        },
+                        {
+                            "time": "01:30",
+                            "remark": ""
+                        },
+                        {
+                            "time": "04:15",
+                            "remark": ""
+                        },
+                        {
+                            "time": "06:10",
+                            "remark": "1"
+                        },
+                        {
+                            "time": "07:00",
+                            "remark": ""
+                        },
+                        {
+                            "time": "07:40",
+                            "remark": "1"
+                        },
+                        {
+                            "time": "08:00",
+                            "remark": ""
+                        },
+                        {
+                            "time": "08:40",
+                            "remark": ""
+                        },
+                        {
+                            "time": "09:00",
+                            "remark": "1"
+                        },
+                        {
+                            "time": "09:45",
+                            "remark": ""
+                        },
+                        {
+                            "time": "10:15",
+                            "remark": "1"
+                        },
+                        {
+                            "time": "10:45",
+                            "remark": ""
+                        },
+                        {
+                            "time": "11:15",
+                            "remark": "1"
+                        },
+                        {
+                            "time": "11:45",
+                            "remark": ""
+                        },
+                        {
+                            "time": "12:15",
+                            "remark": "1"
+                        },
+                        {
+                            "time": "12:45",
+                            "remark": ""
+                        },
+                        {
+                            "time": "13:15",
+                            "remark": "1"
+                        },
+                        {
+                            "time": "13:45",
+                            "remark": ""
+                        },
+                        {
+                            "time": "14:15",
+                            "remark": "1"
+                        },
+                        {
+                            "time": "14:45",
+                            "remark": ""
+                        },
+                        {
+                            "time": "15:15",
+                            "remark": "1"
+                        },
+                        {
+                            "time": "15:45",
+                            "remark": ""
+                        },
+                        {
+                            "time": "16:15",
+                            "remark": "1"
+                        },
+                        {
+                            "time": "16:45",
+                            "remark": ""
+                        },
+                        {
+                            "time": "17:20",
+                            "remark": "1"
+                        },
+                        {
+                            "time": "17:40",
+                            "remark": ""
+                        },
+                        {
+                            "time": "18:00",
+                            "remark": "1"
+                        },
+                        {
+                            "time": "18:20",
+                            "remark": ""
+                        },
+                        {
+                            "time": "18:45",
+                            "remark": "1"
+                        },
+                        {
+                            "time": "19:00",
+                            "remark": ""
+                        },
+                        {
+                            "time": "19:30",
+                            "remark": "3"
+                        },
+                        {
+                            "time": "19:40",
+                            "remark": "4"
+                        },
+                        {
+                            "time": "20:00",
+                            "remark": ""
+                        },
+                        {
+                            "time": "20:30",
+                            "remark": "1"
+                        },
+                        {
+                            "time": "21:00",
+                            "remark": ""
+                        },
+                        {
+                            "time": "21:30",
+                            "remark": "1"
+                        },
+                        {
+                            "time": "22:00",
+                            "remark": ""
+                        },
+                        {
+                            "time": "22:30",
+                            "remark": "1"
+                        },
+                        {
+                            "time": "23:00",
+                            "remark": ""
+                        },
+                        {
+                            "time": "23:30",
+                            "remark": "1"
+                        },
+                        {
+                            "time": "23:45",
+                            "remark": ""
+                        }
+                    ]
+                },
+                {
+                    "dayStart": 1,
+                    "dayEnd": 5,
+                    "runOnPublicHoliday": 1,
+                    "serviceDaysString": "Mondays to Fridays except public holidays",
+                    "serviceTimes": [
+                        {
+                            "time": "18:30",
+                            "remark": "2"
+                        },
+                        {
+                            "time": "19:15",
+                            "remark": "2"
+                        }
+                    ]
+                },
+                {
+                    "dayStart": 0,
+                    "dayEnd": 0,
+                    "runOnPublicHoliday": 1,
+                    "serviceDaysString": "Sundays and public holidays",
+                    "serviceTimes": [
+                        {
+                            "time": "00:30",
+                            "remark": ""
+                        },
+                        {
+                            "time": "01:30",
+                            "remark": ""
+                        },
+                        {
+                            "time": "04:15",
+                            "remark": ""
+                        },
+                        {
+                            "time": "06:30",
+                            "remark": "1"
+                        },
+                        {
+                            "time": "07:00",
+                            "remark": ""
+                        },
+                        {
+                            "time": "07:30",
+                            "remark": "1"
+                        },
+                        {
+                            "time": "08:00",
+                            "remark": ""
+                        },
+                        {
+                            "time": "08:30",
+                            "remark": "1"
+                        },
+                        {
+                            "time": "09:00",
+                            "remark": ""
+                        },
+                        {
+                            "time": "09:30",
+                            "remark": "1"
+                        },
+                        {
+                            "time": "10:00",
+                            "remark": ""
+                        },
+                        {
+                            "time": "10:30",
+                            "remark": "1"
+                        },
+                        {
+                            "time": "11:00",
+                            "remark": ""
+                        },
+                        {
+                            "time": "11:30",
+                            "remark": "1"
+                        },
+                        {
+                            "time": "12:00",
+                            "remark": ""
+                        },
+                        {
+                            "time": "12:30",
+                            "remark": "1"
+                        },
+                        {
+                            "time": "13:00",
+                            "remark": ""
+                        },
+                        {
+                            "time": "13:30",
+                            "remark": "1"
+                        },
+                        {
+                            "time": "14:00",
+                            "remark": ""
+                        },
+                        {
+                            "time": "14:30",
+                            "remark": "1"
+                        },
+                        {
+                            "time": "15:00",
+                            "remark": ""
+                        },
+                        {
+                            "time": "15:30",
+                            "remark": "1"
+                        },
+                        {
+                            "time": "16:00",
+                            "remark": ""
+                        },
+                        {
+                            "time": "16:30",
+                            "remark": "1"
+                        },
+                        {
+                            "time": "17:00",
+                            "remark": ""
+                        },
+                        {
+                            "time": "17:30",
+                            "remark": "1"
+                        },
+                        {
+                            "time": "18:00",
+                            "remark": ""
+                        },
+                        {
+                            "time": "18:30",
+                            "remark": "1"
+                        },
+                        {
+                            "time": "19:00",
+                            "remark": ""
+                        },
+                        {
+                            "time": "19:30",
+                            "remark": "1"
+                        },
+                        {
+                            "time": "20:00",
+                            "remark": ""
+                        },
+                        {
+                            "time": "20:30",
+                            "remark": "1"
+                        },
+                        {
+                            "time": "21:00",
+                            "remark": ""
+                        },
+                        {
+                            "time": "21:30",
+                            "remark": "1"
+                        },
+                        {
+                            "time": "22:00",
+                            "remark": ""
+                        },
+                        {
+                            "time": "22:30",
+                            "remark": "1"
+                        },
+                        {
+                            "time": "23:00",
+                            "remark": ""
+                        },
+                        {
+                            "time": "23:30",
+                            "remark": "1"
+                        },
+                        {
+                            "time": "23:55",
+                            "remark": ""
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "routeCode": "CCCE",
+            "origin": "Cheung Chau",
+            "destination": "Central",
+            "departures": [
+                {
+                    "dayStart": 1,
+                    "dayEnd": 6,
+                    "runOnPublicHoliday": 0,
+                    "serviceDaysString": "Mondays to Saturdays except public holidays",
+                    "serviceTimes": [
+                        {
+                            "time": "02:20",
+                            "remark": ""
+                        },
+                        {
+                            "time": "05:10",
+                            "remark": ""
+                        },
+                        {
+                            "time": "05:50",
+                            "remark": "1"
+                        },
+                        {
+                            "time": "06:20",
+                            "remark": ""
+                        },
+                        {
+                            "time": "06:40",
+                            "remark": "1"
+                        },
+                        {
+                            "time": "07:00",
+                            "remark": ""
+                        },
+                        {
+                            "time": "07:15",
+                            "remark": "1"
+                        },
+                        {
+                            "time": "07:45",
+                            "remark": ""
+                        },
+                        {
+                            "time": "07:50",
+                            "remark": "1"
+                        },
+                        {
+                            "time": "07:55",
+                            "remark": ""
+                        },
+                        {
+                            "time": "08:10",
+                            "remark": ""
+                        },
+                        {
+                            "time": "08:20",
+                            "remark": ""
+                        },
+                        {
+                            "time": "08:40",
+                            "remark": "1"
+                        },
+                        {
+                            "time": "09:00",
+                            "remark": ""
+                        },
+                        {
+                            "time": "09:30",
+                            "remark": ""
+                        },
+                        {
+                            "time": "10:00",
+                            "remark": "1"
+                        },
+                        {
+                            "time": "10:45",
+                            "remark": ""
+                        },
+                        {
+                            "time": "11:15",
+                            "remark": "1"
+                        },
+                        {
+                            "time": "11:45",
+                            "remark": ""
+                        },
+                        {
+                            "time": "12:15",
+                            "remark": "1"
+                        },
+                        {
+                            "time": "12:45",
+                            "remark": ""
+                        },
+                        {
+                            "time": "13:15",
+                            "remark": "1"
+                        },
+                        {
+                            "time": "13:45",
+                            "remark": ""
+                        },
+                        {
+                            "time": "14:15",
+                            "remark": "1"
+                        },
+                        {
+                            "time": "14:45",
+                            "remark": ""
+                        },
+                        {
+                            "time": "15:15",
+                            "remark": "1"
+                        },
+                        {
+                            "time": "15:45",
+                            "remark": ""
+                        },
+                        {
+                            "time": "16:15",
+                            "remark": "1"
+                        },
+                        {
+                            "time": "16:45",
+                            "remark": ""
+                        },
+                        {
+                            "time": "17:15",
+                            "remark": "1"
+                        },
+                        {
+                            "time": "17:40",
+                            "remark": ""
+                        },
+                        {
+                            "time": "18:20",
+                            "remark": "1"
+                        },
+                        {
+                            "time": "19:00",
+                            "remark": ""
+                        },
+                        {
+                            "time": "19:30",
+                            "remark": "1"
+                        },
+                        {
+                            "time": "20:00",
+                            "remark": ""
+                        },
+                        {
+                            "time": "20:30",
+                            "remark": "1"
+                        },
+                        {
+                            "time": "21:00",
+                            "remark": ""
+                        },
+                        {
+                            "time": "21:30",
+                            "remark": "1"
+                        },
+                        {
+                            "time": "22:00",
+                            "remark": ""
+                        },
+                        {
+                            "time": "22:30",
+                            "remark": "1"
+                        },
+                        {
+                            "time": "23:00",
+                            "remark": ""
+                        },
+                        {
+                            "time": "23:30",
+                            "remark": "1"
+                        },
+                        {
+                            "time": "23:45",
+                            "remark": ""
+                        }
+                    ]
+                },
+                {
+                    "dayStart": 1,
+                    "dayEnd": 5,
+                    "runOnPublicHoliday": 1,
+                    "serviceDaysString": "Mondays to Fridays except public holidays",
+                    "serviceTimes": [
+                        {
+                            "time": "16:30",
+                            "remark": "2"
+                        }
+                    ]
+                },
+                {
+                    "dayStart": 0,
+                    "dayEnd": 0,
+                    "runOnPublicHoliday": 1,
+                    "serviceDaysString": "Sundays and public holidays",
+                    "serviceTimes": [
+                        {
+                            "time": "02:20",
+                            "remark": ""
+                        },
+                        {
+                            "time": "05:10",
+                            "remark": ""
+                        },
+                        {
+                            "time": "06:00",
+                            "remark": ""
+                        },
+                        {
+                            "time": "06:30",
+                            "remark": "1"
+                        },
+                        {
+                            "time": "07:00",
+                            "remark": ""
+                        },
+                        {
+                            "time": "07:30",
+                            "remark": "1"
+                        },
+                        {
+                            "time": "08:00",
+                            "remark": ""
+                        },
+                        {
+                            "time": "08:30",
+                            "remark": "1"
+                        },
+                        {
+                            "time": "09:00",
+                            "remark": ""
+                        },
+                        {
+                            "time": "09:30",
+                            "remark": "1"
+                        },
+                        {
+                            "time": "10:00",
+                            "remark": ""
+                        },
+                        {
+                            "time": "10:30",
+                            "remark": "1"
+                        },
+                        {
+                            "time": "11:00",
+                            "remark": ""
+                        },
+                        {
+                            "time": "11:30",
+                            "remark": "1"
+                        },
+                        {
+                            "time": "12:00",
+                            "remark": ""
+                        },
+                        {
+                            "time": "12:30",
+                            "remark": "1"
+                        },
+                        {
+                            "time": "13:00",
+                            "remark": ""
+                        },
+                        {
+                            "time": "13:30",
+                            "remark": "1"
+                        },
+                        {
+                            "time": "14:00",
+                            "remark": ""
+                        },
+                        {
+                            "time": "14:30",
+                            "remark": "1"
+                        },
+                        {
+                            "time": "15:00",
+                            "remark": ""
+                        },
+                        {
+                            "time": "15:30",
+                            "remark": "1"
+                        },
+                        {
+                            "time": "16:00",
+                            "remark": ""
+                        },
+                        {
+                            "time": "16:30",
+                            "remark": "1"
+                        },
+                        {
+                            "time": "17:00",
+                            "remark": ""
+                        },
+                        {
+                            "time": "17:30",
+                            "remark": "1"
+                        },
+                        {
+                            "time": "18:00",
+                            "remark": ""
+                        },
+                        {
+                            "time": "18:30",
+                            "remark": "1"
+                        },
+                        {
+                            "time": "19:00",
+                            "remark": ""
+                        },
+                        {
+                            "time": "19:30",
+                            "remark": "1"
+                        },
+                        {
+                            "time": "20:00",
+                            "remark": ""
+                        },
+                        {
+                            "time": "20:30",
+                            "remark": "1"
+                        },
+                        {
+                            "time": "21:00",
+                            "remark": ""
+                        },
+                        {
+                            "time": "21:30",
+                            "remark": "1"
+                        },
+                        {
+                            "time": "22:00",
+                            "remark": ""
+                        },
+                        {
+                            "time": "22:30",
+                            "remark": "1"
+                        },
+                        {
+                            "time": "23:00",
+                            "remark": ""
+                        },
+                        {
+                            "time": "23:30",
+                            "remark": "1"
+                        }
+                    ]
+                }
+            ]
+        }
+    ],
+    "remarks": [
+        {
+            "code": "1",
+            "remark": "1 denotes Ordinary ferry service and freight service is allowed "
+        },
+        {
+            "code": "2",
+            "remark": "2 denotes trip operated on Mondays to Fridays only (except public holidays)"
+        },
+        {
+            "code": "3",
+            "remark": "3 denotes Ordinary ferry service and freight service is allowed and trip operated on Saturdays only (except public holidays) "
+        },
+        {
+            "code": "4",
+            "remark": "4 denotes Ordinary ferry service and freight service is allowed and trip operated on Mondays to Fridays only (except public holidays)"
+        }
+    ]
+}

@@ -1,0 +1,84 @@
+{
+  "route_codes": [
+    {
+      "route_code": "CECC",
+      "origin" : "Central",
+      "destination": "Cheung Chau"
+    },
+    {
+      "route_code": "CCCE",
+      "origin" : "Cheung Chau",
+      "destination": "Central"
+    },
+    {
+      "route_code": "CEMW",
+      "origin" : "Central",
+      "destination": "Mui Wo"
+    },
+    {
+      "route_code": "MWCE",
+      "origin" : "Mui Wo",
+      "destination": "Central"
+    },
+    {
+      "route_code": "NPHH",
+      "origin" : "North Point",
+      "destination": "Hung Hom"
+    },
+    {
+      "route_code": "HHNP",
+      "origin" : "Hung Hom",
+      "destination": "North Point"
+    },
+    {
+      "route_code": "NPKC",
+      "origin" : "North Point",
+      "destination": "Kowloon City"
+    },
+    {
+      "route_code": "KCNP",
+      "origin" : "Kowloon City",
+      "destination": "North Point"
+    },
+    {
+      "route_code": "IIPECMUW",
+      "origin" : "Peng Chau",
+      "destination": "Mui Wo"
+    },
+    {
+      "route_code": "IIMUWPEC",
+      "origin" : "Mui Wo",
+      "destination": "Peng Chau"
+    },
+    {
+      "route_code": "IIMUWCMW",
+      "origin" : "Mui Wo",
+      "destination": "Chi Ma Wan"
+    },
+    {
+      "route_code": "IICMWMUW",
+      "origin" : "Chi Ma Wan",
+      "destination": "Mui Wo"
+    },
+    {
+      "route_code": "IICMWCHC",
+      "origin" : "Chi Ma Wan",
+      "destination": "Cheung Chau"
+    },
+    {
+      "route_code": "IICHCCMW",
+      "origin" : "Cheung Chau",
+      "destination": "Chi Ma Wan"
+    },
+    {
+      "route_code": "IICHCMUW",
+      "origin" : "Cheung Chau",
+      "destination": "Mui Wo"
+    },
+    {
+      "route_code": "IIMUWCHC",
+      "origin" : "Mui Wo",
+      "destination": "Cheung Chau"
+    }
+  ]
+}

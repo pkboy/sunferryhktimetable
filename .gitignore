@@ -1,0 +1,5 @@
+bin/
+lib/
+sunferry_timetables/
+pyvenv.cfg
+.DS_Store

@@ -1,0 +1,260 @@
+{
+    "routes": [
+        {
+            "routeCode": "NPKC",
+            "origin": "North Point",
+            "destination": "Kowloon City",
+            "departures": [
+                {
+                    "dayStart": 0,
+                    "dayEnd": 6,
+                    "runOnPublicHoliday": 1,
+                    "serviceDaysString": "Daily",
+                    "serviceTimes": [
+                        {
+                            "time": "07:17",
+                            "remark": ""
+                        },
+                        {
+                            "time": "07:47",
+                            "remark": ""
+                        },
+                        {
+                            "time": "08:17",
+                            "remark": ""
+                        },
+                        {
+                            "time": "08:32",
+                            "remark": "1"
+                        },
+                        {
+                            "time": "08:47",
+                            "remark": ""
+                        },
+                        {
+                            "time": "09:17",
+                            "remark": ""
+                        },
+                        {
+                            "time": "09:47",
+                            "remark": ""
+                        },
+                        {
+                            "time": "10:17",
+                            "remark": ""
+                        },
+                        {
+                            "time": "10:47",
+                            "remark": ""
+                        },
+                        {
+                            "time": "11:17",
+                            "remark": ""
+                        },
+                        {
+                            "time": "11:47",
+                            "remark": ""
+                        },
+                        {
+                            "time": "12:17",
+                            "remark": ""
+                        },
+                        {
+                            "time": "12:47",
+                            "remark": ""
+                        },
+                        {
+                            "time": "13:17",
+                            "remark": ""
+                        },
+                        {
+                            "time": "13:47",
+                            "remark": ""
+                        },
+                        {
+                            "time": "14:17",
+                            "remark": ""
+                        },
+                        {
+                            "time": "14:47",
+                            "remark": ""
+                        },
+                        {
+                            "time": "15:17",
+                            "remark": ""
+                        },
+                        {
+                            "time": "15:47",
+                            "remark": ""
+                        },
+                        {
+                            "time": "16:17",
+                            "remark": ""
+                        },
+                        {
+                            "time": "16:47",
+                            "remark": ""
+                        },
+                        {
+                            "time": "17:17",
+                            "remark": ""
+                        },
+                        {
+                            "time": "17:47",
+                            "remark": ""
+                        },
+                        {
+                            "time": "18:17",
+                            "remark": ""
+                        },
+                        {
+                            "time": "18:32",
+                            "remark": "1"
+                        },
+                        {
+                            "time": "18:47",
+                            "remark": ""
+                        },
+                        {
+                            "time": "19:17",
+                            "remark": ""
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "routeCode": "KCNP",
+            "origin": "Kowloon City",
+            "destination": "North Point",
+            "departures": [
+                {
+                    "dayStart": 0,
+                    "dayEnd": 6,
+                    "runOnPublicHoliday": 1,
+                    "serviceDaysString": "Daily",
+                    "serviceTimes": [
+                        {
+                            "time": "07:05",
+                            "remark": ""
+                        },
+                        {
+                            "time": "07:35",
+                            "remark": ""
+                        },
+                        {
+                            "time": "08:05",
+                            "remark": ""
+                        },
+                        {
+                            "time": "08:35",
+                            "remark": ""
+                        },
+                        {
+                            "time": "08:50",
+                            "remark": "1"
+                        },
+                        {
+                            "time": "09:05",
+                            "remark": ""
+                        },
+                        {
+                            "time": "09:35",
+                            "remark": ""
+                        },
+                        {
+                            "time": "10:05",
+                            "remark": ""
+                        },
+                        {
+                            "time": "10:35",
+                            "remark": ""
+                        },
+                        {
+                            "time": "11:05",
+                            "remark": ""
+                        },
+                        {
+                            "time": "11:35",
+                            "remark": ""
+                        },
+                        {
+                            "time": "12:05",
+                            "remark": ""
+                        },
+                        {
+                            "time": "12:35",
+                            "remark": ""
+                        },
+                        {
+                            "time": "13:05",
+                            "remark": ""
+                        },
+                        {
+                            "time": "13:35",
+                            "remark": ""
+                        },
+                        {
+                            "time": "14:05",
+                            "remark": ""
+                        },
+                        {
+                            "time": "14:35",
+                            "remark": ""
+                        },
+                        {
+                            "time": "15:05",
+                            "remark": ""
+                        },
+                        {
+                            "time": "15:35",
+                            "remark": ""
+                        },
+                        {
+                            "time": "16:05",
+                            "remark": ""
+                        },
+                        {
+                            "time": "16:35",
+                            "remark": ""
+                        },
+                        {
+                            "time": "17:05",
+                            "remark": ""
+                        },
+                        {
+                            "time": "17:35",
+                            "remark": ""
+                        },
+                        {
+                            "time": "18:05",
+                            "remark": ""
+                        },
+                        {
+                            "time": "18:35",
+                            "remark": ""
+                        },
+                        {
+                            "time": "18:50",
+                            "remark": "1"
+                        },
+                        {
+                            "time": "19:05",
+                            "remark": ""
+                        },
+                        {
+                            "time": "19:35",
+                            "remark": ""
+                        }
+                    ]
+                }
+            ]
+        }
+    ],
+    "remarks": [
+        {
+            "code": "1",
+            "remark": "1 denotes The sailings are operated on Mondays to Fridays (except public holidays) only."
+        }
+    ]
+}

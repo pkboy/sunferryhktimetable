@@ -1,0 +1,350 @@
+{
+    "routes": [
+        {
+            "routeCode": "IICHCMUW",
+            "origin": "Cheung Chau",
+            "destination": "Mui Wo",
+            "departures": [
+                {
+                    "dayStart": 0,
+                    "dayEnd": 6,
+                    "runOnPublicHoliday": 1,
+                    "serviceDaysString": "Daily",
+                    "serviceTimes": [
+                        {
+                            "time": "06:00",
+                            "remark": ""
+                        },
+                        {
+                            "time": "12:45",
+                            "remark": ""
+                        },
+                        {
+                            "time": "21:00",
+                            "remark": ""
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "routeCode": "IIMUWPEC",
+            "origin": "Mui Wo",
+            "destination": "Peng Chau",
+            "departures": [
+                {
+                    "dayStart": 0,
+                    "dayEnd": 6,
+                    "runOnPublicHoliday": 1,
+                    "serviceDaysString": "Daily",
+                    "serviceTimes": [
+                        {
+                            "time": "06:30",
+                            "remark": "1"
+                        },
+                        {
+                            "time": "07:10",
+                            "remark": ""
+                        },
+                        {
+                            "time": "09:25",
+                            "remark": ""
+                        },
+                        {
+                            "time": "11:35",
+                            "remark": ""
+                        },
+                        {
+                            "time": "13:15",
+                            "remark": ""
+                        },
+                        {
+                            "time": "15:20",
+                            "remark": ""
+                        },
+                        {
+                            "time": "17:30",
+                            "remark": ""
+                        },
+                        {
+                            "time": "19:30",
+                            "remark": ""
+                        },
+                        {
+                            "time": "21:30",
+                            "remark": ""
+                        },
+                        {
+                            "time": "23:25",
+                            "remark": ""
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "routeCode": "IIPECMUW",
+            "origin": "Peng Chau",
+            "destination": "Mui Wo",
+            "departures": [
+                {
+                    "dayStart": 0,
+                    "dayEnd": 6,
+                    "runOnPublicHoliday": 1,
+                    "serviceDaysString": "Daily",
+                    "serviceTimes": [
+                        {
+                            "time": "05:40",
+                            "remark": ""
+                        },
+                        {
+                            "time": "07:30",
+                            "remark": ""
+                        },
+                        {
+                            "time": "09:45",
+                            "remark": ""
+                        },
+                        {
+                            "time": "11:55",
+                            "remark": ""
+                        },
+                        {
+                            "time": "13:35",
+                            "remark": ""
+                        },
+                        {
+                            "time": "15:40",
+                            "remark": ""
+                        },
+                        {
+                            "time": "17:55",
+                            "remark": ""
+                        },
+                        {
+                            "time": "19:50",
+                            "remark": ""
+                        },
+                        {
+                            "time": "21:50",
+                            "remark": ""
+                        },
+                        {
+                            "time": "23:45",
+                            "remark": "2"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "routeCode": "IIMUWCMW",
+            "origin": "Mui Wo",
+            "destination": "Chi Ma Wan",
+            "departures": [
+                {
+                    "dayStart": 0,
+                    "dayEnd": 6,
+                    "runOnPublicHoliday": 1,
+                    "serviceDaysString": "Daily",
+                    "serviceTimes": [
+                        {
+                            "time": "06:00",
+                            "remark": ""
+                        },
+                        {
+                            "time": "08:00",
+                            "remark": ""
+                        },
+                        {
+                            "time": "10:10",
+                            "remark": ""
+                        },
+                        {
+                            "time": "14:00",
+                            "remark": ""
+                        },
+                        {
+                            "time": "16:00",
+                            "remark": ""
+                        },
+                        {
+                            "time": "20:10",
+                            "remark": ""
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "routeCode": "IICMWCHC",
+            "origin": "Chi Ma Wan",
+            "destination": "Cheung Chau",
+            "departures": [
+                {
+                    "dayStart": 0,
+                    "dayEnd": 6,
+                    "runOnPublicHoliday": 1,
+                    "serviceDaysString": "Daily",
+                    "serviceTimes": [
+                        {
+                            "time": "06:15",
+                            "remark": ""
+                        },
+                        {
+                            "time": "08:20",
+                            "remark": ""
+                        },
+                        {
+                            "time": "10:30",
+                            "remark": ""
+                        },
+                        {
+                            "time": "14:15",
+                            "remark": ""
+                        },
+                        {
+                            "time": "16:15",
+                            "remark": ""
+                        },
+                        {
+                            "time": "20:30",
+                            "remark": ""
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "routeCode": "IICHCCMW",
+            "origin": "Cheung Chau",
+            "destination": "Chi Ma Wan",
+            "departures": [
+                {
+                    "dayStart": 0,
+                    "dayEnd": 6,
+                    "runOnPublicHoliday": 1,
+                    "serviceDaysString": "Daily",
+                    "serviceTimes": [
+                        {
+                            "time": "06:35",
+                            "remark": ""
+                        },
+                        {
+                            "time": "08:45",
+                            "remark": ""
+                        },
+                        {
+                            "time": "10:50",
+                            "remark": ""
+                        },
+                        {
+                            "time": "14:45",
+                            "remark": ""
+                        },
+                        {
+                            "time": "16:50",
+                            "remark": ""
+                        },
+                        {
+                            "time": "18:45",
+                            "remark": ""
+                        },
+                        {
+                            "time": "22:50",
+                            "remark": ""
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "routeCode": "IICMWMUW",
+            "origin": "Chi Ma Wan",
+            "destination": "Mui Wo",
+            "departures": [
+                {
+                    "dayStart": 0,
+                    "dayEnd": 6,
+                    "runOnPublicHoliday": 1,
+                    "serviceDaysString": "Daily",
+                    "serviceTimes": [
+                        {
+                            "time": "06:52",
+                            "remark": ""
+                        },
+                        {
+                            "time": "09:05",
+                            "remark": ""
+                        },
+                        {
+                            "time": "11:10",
+                            "remark": ""
+                        },
+                        {
+                            "time": "15:00",
+                            "remark": ""
+                        },
+                        {
+                            "time": "17:05",
+                            "remark": ""
+                        },
+                        {
+                            "time": "19:05",
+                            "remark": ""
+                        },
+                        {
+                            "time": "23:05",
+                            "remark": ""
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "routeCode": "IIMUWCHC",
+            "origin": "Mui Wo",
+            "destination": "Cheung Chau",
+            "departures": [
+                {
+                    "dayStart": 0,
+                    "dayEnd": 6,
+                    "runOnPublicHoliday": 1,
+                    "serviceDaysString": "Daily",
+                    "serviceTimes": [
+                        {
+                            "time": "12:15",
+                            "remark": ""
+                        },
+                        {
+                            "time": "17:20",
+                            "remark": "3"
+                        },
+                        {
+                            "time": "18:15",
+                            "remark": ""
+                        },
+                        {
+                            "time": "22:20",
+                            "remark": ""
+                        }
+                    ]
+                }
+            ]
+        }
+    ],
+    "remarks": [
+        {
+            "code": "1",
+            "remark": "1 denotes service terminated at Peng Chau"
+        },
+        {
+            "code": "2",
+            "remark": "2 denotes service terminated at Mui Wo"
+        },
+        {
+            "code": "3",
+            "remark": "3 denotes service terminated at Cheung Chau"
+        }
+    ]
+}
