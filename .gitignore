@@ -1,5 +1,6 @@
 bin/
 lib/
 sunferry_timetables/
+__pycache__/
 pyvenv.cfg
 .DS_Store
