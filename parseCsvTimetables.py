@@ -67,6 +67,7 @@ def parseCsv(csvfile):
     
     current_row = {
       "routeCode": route_code,
+      "routeName": origin + " to " + dest,
       "origin": origin,
       "destination": dest,
       "departures": [ departures ]

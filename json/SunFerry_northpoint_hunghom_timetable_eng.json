@@ -2,6 +2,7 @@
     "routes": [
         {
             "routeCode": "NPHH",
+            "routeName": "North Point to Hung Hom",
             "origin": "North Point",
             "destination": "Hung Hom",
             "departures": [
@@ -125,6 +126,7 @@
         },
         {
             "routeCode": "HHNP",
+            "routeName": "Hung Hom to North Point",
             "origin": "Hung Hom",
             "destination": "North Point",
             "departures": [

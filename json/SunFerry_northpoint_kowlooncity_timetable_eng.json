@@ -2,6 +2,7 @@
     "routes": [
         {
             "routeCode": "NPKC",
+            "routeName": "North Point to Kowloon City",
             "origin": "North Point",
             "destination": "Kowloon City",
             "departures": [
@@ -125,6 +126,7 @@
         },
         {
             "routeCode": "KCNP",
+            "routeName": "Kowloon City to North Point",
             "origin": "Kowloon City",
             "destination": "North Point",
             "departures": [

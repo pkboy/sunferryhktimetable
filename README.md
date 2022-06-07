@@ -50,6 +50,7 @@ JSON for each schedule is as follows:
 ```
 
 ```routeCode``` - Code used for the routes, can be used in ETA API calls
+```routeName``` - ```origin``` to ```destination```
 ```origin``` - Where route begins
 ```destination``` - Where route ends
 ```departures``` - List of departures

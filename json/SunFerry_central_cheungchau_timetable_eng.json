@@ -2,12 +2,13 @@
     "routes": [
         {
             "routeCode": "CECC",
+            "routeName": "Central to Cheung Chau",
             "origin": "Central",
             "destination": "Cheung Chau",
             "departures": [
                 {
-                    "dayStart": 1,
-                    "dayEnd": 6,
+                    "dayStart": 0,
+                    "dayEnd": 5,
                     "runOnPublicHoliday": 0,
                     "serviceDaysString": "Mondays to Saturdays except public holidays",
                     "serviceTimes": [
@@ -178,9 +179,9 @@
                     ]
                 },
                 {
-                    "dayStart": 1,
-                    "dayEnd": 5,
-                    "runOnPublicHoliday": 1,
+                    "dayStart": 0,
+                    "dayEnd": 4,
+                    "runOnPublicHoliday": 0,
                     "serviceDaysString": "Mondays to Fridays except public holidays",
                     "serviceTimes": [
                         {
@@ -194,8 +195,8 @@
                     ]
                 },
                 {
-                    "dayStart": 0,
-                    "dayEnd": 0,
+                    "dayStart": 6,
+                    "dayEnd": 6,
                     "runOnPublicHoliday": 1,
                     "serviceDaysString": "Sundays and public holidays",
                     "serviceTimes": [
@@ -361,12 +362,13 @@
         },
         {
             "routeCode": "CCCE",
+            "routeName": "Cheung Chau to Central",
             "origin": "Cheung Chau",
             "destination": "Central",
             "departures": [
                 {
-                    "dayStart": 1,
-                    "dayEnd": 6,
+                    "dayStart": 0,
+                    "dayEnd": 5,
                     "runOnPublicHoliday": 0,
                     "serviceDaysString": "Mondays to Saturdays except public holidays",
                     "serviceTimes": [
@@ -545,9 +547,9 @@
                     ]
                 },
                 {
-                    "dayStart": 1,
-                    "dayEnd": 5,
-                    "runOnPublicHoliday": 1,
+                    "dayStart": 0,
+                    "dayEnd": 4,
+                    "runOnPublicHoliday": 0,
                     "serviceDaysString": "Mondays to Fridays except public holidays",
                     "serviceTimes": [
                         {
@@ -557,8 +559,8 @@
                     ]
                 },
                 {
-                    "dayStart": 0,
-                    "dayEnd": 0,
+                    "dayStart": 6,
+                    "dayEnd": 6,
                     "runOnPublicHoliday": 1,
                     "serviceDaysString": "Sundays and public holidays",
                     "serviceTimes": [

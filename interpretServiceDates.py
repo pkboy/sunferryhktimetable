@@ -13,33 +13,33 @@ service_dates = [
   { 
     "from_document" : "sundays and public holidays",
     "service_days" : {
-      "dayStart" : 0,
-      "dayEnd" : 0,
+      "dayStart" : 6,
+      "dayEnd" : 6,
       "runOnPublicHoliday" : 1
     }
   },
   { 
     "from_document" : "saturdays except public holidays",
     "service_days" : {
-      "dayStart" : 6,
-      "dayEnd" : 6,
+      "dayStart" : 5,
+      "dayEnd" : 5,
       "runOnPublicHoliday" : 0
     }
   },
   { 
     "from_document" : "mondays to saturdays except public holidays",
     "service_days" : {
-      "dayStart" : 1,
-      "dayEnd" : 6,
+      "dayStart" : 0,
+      "dayEnd" : 5,
       "runOnPublicHoliday" : 0
     }
   },
   { 
     "from_document" : "mondays to fridays except public holidays",
     "service_days" : {
-      "dayStart" : 1,
-      "dayEnd" : 5,
-      "runOnPublicHoliday" : 1
+      "dayStart" : 0,
+      "dayEnd" : 4,
+      "runOnPublicHoliday" : 0
     }
   },
   { 
@@ -57,7 +57,7 @@ def get_service_days(text: str):
     if str.strip(text.lower()) in s["from_document"]:
       return s["service_days"]
   return {
-      "dayStart" : 0,
-      "dayEnd" : 6,
+      "dayStart" : -1,
+      "dayEnd" : -1,
       "runOnPublicHoliday" : 1
     }
